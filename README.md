@@ -88,9 +88,9 @@ InsertionSort: 	3 5 6 8 10 11 13 19 22 35
 SelectionSort: 	3 5 6 8 10 11 13 19 22 35 
 
 //=====Eficient sorts==================//
-MergeSort: 	3 5 6 8 10 11 13 19 22 35 
-HeapSort: 	3 5 6 8 10 11 13 19 22 35 
-QuickSort: 	3 5 6 8 10 11 13 19 22 35 
+MergeSort: 		3 5 6 8 10 11 13 19 22 35 
+HeapSort: 		3 5 6 8 10 11 13 19 22 35 
+QuickSort: 		3 5 6 8 10 11 13 19 22 35 
 
 //=====Bubble sort and variants========//
 BubbleSort: 	3 5 6 8 10 11 13 19 22 35 
