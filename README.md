@@ -94,16 +94,16 @@ QuickSort: 		3 5 6 8 10 11 13 19 22 35
 
 //=====Bubble sort and variants========//
 BubbleSort: 	3 5 6 8 10 11 13 19 22 35 
-ShellSort: 	3 5 6 8 10 11 13 19 22 35 
-CombSort: 	3 5 6 8 10 11 13 19 22 35 
+ShellSort: 		3 5 6 8 10 11 13 19 22 35 
+CombSort: 		3 5 6 8 10 11 13 19 22 35 
 
 //=====Distribution sorts==============//
 CountingSort: 	3 5 6 8 10 11 13 19 22 35 
-RadixSort: 	3 5 6 8 10 11 13 19 22 35 
+RadixSort: 		3 5 6 8 10 11 13 19 22 35 
 
 //=====Other sorts=====================//
-GnomeSort: 	3 5 6 8 10 11 13 19 22 35 
-CycleSort: 	3 5 6 8 10 11 13 19 22 35 
+GnomeSort: 		3 5 6 8 10 11 13 19 22 35 
+CycleSort: 		3 5 6 8 10 11 13 19 22 35 
 
 ```
 
