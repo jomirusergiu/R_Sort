@@ -79,29 +79,29 @@ RocKK$ gcc main.c bubblesort.c combsort.c cyclesort.c gnomesort.c heapsort.c ins
 RocKK$ ./a.out 
 
 //=====Shuffled array===================//
-Initial Array: 	10 11 8 19 5 3 22 6 35 13 
+Initial Array: 10 11 8 19 5 3 22 6 35 13 
 
 //=====Simple sorts====================//
-InsertionSort: 	3 5 6 8 10 11 13 19 22 35 
-SelectionSort: 	3 5 6 8 10 11 13 19 22 35 
+InsertionSort: 3 5 6 8 10 11 13 19 22 35 
+SelectionSort: 3 5 6 8 10 11 13 19 22 35 
 
 //=====Eficient sorts==================//
-MergeSort: 		3 5 6 8 10 11 13 19 22 35 
-HeapSort: 		3 5 6 8 10 11 13 19 22 35 
-QuickSort: 		3 5 6 8 10 11 13 19 22 35 
+MergeSort: 3 5 6 8 10 11 13 19 22 35 
+HeapSort: 3 5 6 8 10 11 13 19 22 35 
+QuickSort: 3 5 6 8 10 11 13 19 22 35 
 
 //=====Bubble sort and variants========//
-BubbleSort: 	3 5 6 8 10 11 13 19 22 35 
-ShellSort: 		3 5 6 8 10 11 13 19 22 35 
-CombSort: 		3 5 6 8 10 11 13 19 22 35 
+BubbleSort: 3 5 6 8 10 11 13 19 22 35 
+ShellSort: 3 5 6 8 10 11 13 19 22 35 
+CombSort: 3 5 6 8 10 11 13 19 22 35 
 
 //=====Distribution sorts==============//
-CountingSort: 	3 5 6 8 10 11 13 19 22 35 
-RadixSort: 		3 5 6 8 10 11 13 19 22 35 
+CountingSort: 3 5 6 8 10 11 13 19 22 35 
+RadixSort: 3 5 6 8 10 11 13 19 22 35 
 
 //=====Other sorts=====================//
-GnomeSort: 		3 5 6 8 10 11 13 19 22 35 
-CycleSort: 		3 5 6 8 10 11 13 19 22 35 
+GnomeSort: 3 5 6 8 10 11 13 19 22 35 
+CycleSort: 3 5 6 8 10 11 13 19 22 35 
 
 ```
 
